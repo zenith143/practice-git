@@ -1,0 +1,10 @@
+.inline-block {
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.setHeader{
+    background-color: black;
+    color: white;
+    padding-top: 0px;
+}
